@@ -60,16 +60,16 @@ Interact with Claude Desktop using natural language:
 - "Create a ticket for laptop repair"
 
 ## Project Structure
-├── server.py          # Main MCP server
-├── emails.py          # Email service
-├── utils.py           # Utilities and data seeding
-├── requirements.txt   # Dependencies
-└── hrms/             # HR modules
-    ├── schemas.py    # Data models
-    ├── employee_manager.py
-    ├── leave_manager.py
-    ├── meeting_manager.py
-    └── ticket_manager.py
+├── server.py          # Main MCP server <br>
+├── emails.py          # Email service <br>
+├── utils.py           # Utilities and data seeding<br>
+├── requirements.txt   # Dependencies <br>
+└── hrms/             # HR modules <br>
+    ├── schemas.py    # Data models <br>
+    ├── employee_manager.py <br>
+    ├── leave_manager.py <br>
+    ├── meeting_manager.py <br>
+    └── ticket_manager.py <br>
     
 
 
